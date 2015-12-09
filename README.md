@@ -6,7 +6,7 @@
   2.2. Android et Javas
   2.3. Application Android
 3. Sécurité et confidentialité
-  4. Utilisation et support
+4. Utilisation et support
 5. Developpement
   5.1. Production de logiciel
   5.2. Exemple
