@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatRoom</string>
+    <string name="title_activity_chat">Chat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
